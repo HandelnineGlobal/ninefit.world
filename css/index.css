@@ -1,0 +1,1692 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 1226px;
+  position: relative;
+}
+
+.index .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  height: 124px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-26 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.index .frame-48 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.index .logo-1 {
+  height: 53px;
+  margin-right: -109.00px;
+  object-fit: cover;
+  position: relative;
+  width: 209px;
+}
+
+.index .menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.index .link {
+  color: var(--secondary);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .banner-section {
+  align-items: flex-start;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%);
+  background-image: url(../img/banner-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 205px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .get-fit-your-way {
+  align-self: stretch;
+  letter-spacing: 1.28px;
+  line-height: 70px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .everything-you-need-to-get-moving {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+}
+
+.index .about {
+  background-color: var(--white);
+  gap: 48px;
+}
+
+.index .frame-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px 74px;
+  position: relative;
+  width: 100%;
+}
+
+.index .about-us {
+  gap: 53px;
+}
+
+.index .about-nine-fit {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span {
+  letter-spacing: 0.50px;
+}
+
+.index .fitness-isnt-one-si {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.index .categories-of-product {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .fitness-essentials-for-everyday {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .explore-curated-fitn {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.index .frame-4-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 60px;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .frame-4-item {
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  width: 202px;
+}
+
+.index .athletic-clothing {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-26 {
+  border-radius: 74.77px/75px;
+  height: 150px;
+  width: 149.53px;
+}
+
+.index .tshirt-1 {
+  height: 64px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 64px;
+}
+
+.index .outdoor-sports-recreation {
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+
+.index .ellipse-2 {
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  width: 150px;
+}
+
+.index .baseball-ball-outline-1 {
+  height: 64px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 64px;
+}
+
+.index .fitness-tech-wearables {
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 176px;
+}
+
+.index .smart-watch-1 {
+  height: 69px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 69px;
+}
+
+.index .home-gym-equipment {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .bell-1 {
+  height: 70px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 70px;
+}
+
+.index .green-band {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-46 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .choose-nine-fit-for-a {
+  color: var(--white);
+  flex: 1;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .contact-us {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--secondary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .email-section {
+  align-self: stretch;
+  background-color: var(--shark);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 0px;
+  width: 100%;
+}
+
+.index .frame-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.index .contact-us-get-in-touch {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span-1 {
+  letter-spacing: 0.46px;
+}
+
+.index .email-button {
+  border: 1px solid;
+  border-color: var(--text-grey);
+  border-radius: 34px;
+  display: inline-flex;
+  gap: 12px;
+  padding: 15px 33px;
+}
+
+.index .mask-group {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.index .infoninefitcom {
+  color: var(--white);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .addresses {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 30px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.index .address {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .hygeia-building-rea {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .name {
+  align-self: stretch;
+  color: var(--hover);
+  font-weight: 600;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .f-135136-kailas-va {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .x2301-bayfield-build {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-32 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.index .layer_1 {
+  height: 43px;
+  position: relative;
+  width: 174px;
+}
+
+.index .x2024-nine-fit-all-rights-reserved {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.index .about-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse {
+  background-color: var(--white);
+  position: relative;
+}
+
+.index .email {
+  align-items: center;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.index .frame-4-2 {
+  display: flex;
+  position: relative;
+}
+
+.index .place-3 {
+  align-self: stretch;
+  color: var(--hover);
+  font-weight: 600;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+/* screen - ninefitu95desk-responsive-2 */
+
+.ninefitu95desk-responsive-2 {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 375px;
+}
+
+.ninefitu95desk-responsive-2 .header1 {
+  align-items: center;
+  align-self: stretch;
+  height: 100px;
+  justify-content: center;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-48-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .logo-1-1 {
+  height: 45.65px;
+  object-fit: cover;
+  position: relative;
+  width: 180px;
+}
+
+.ninefitu95desk-responsive-2 .menu-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-gray);
+  display: flex;
+  gap: 20px;
+  height: 42px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .link-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ninefitu95desk-responsive-2 .banner-section-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%);
+  background-image: url(../img/banner-section-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 196px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-25-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .get-fit-your-way-1 {
+  align-self: stretch;
+  letter-spacing: 1.28px;
+  line-height: 70px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .everything-you-need-to-get-moving-1 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .about1 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-45-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 40px 74px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .about-us-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .about-nine-fit-1 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-2 .span-2 {
+  letter-spacing: 0.50px;
+}
+
+.ninefitu95desk-responsive-2 .fitness-isnt-one-si-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.ninefitu95desk-responsive-2 .categories-of-product1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-47-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-28-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .fitness-essentials-for-everyday-1 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-2 .explore-curated-fitn-1 {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-2 .frame-4-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 90px;
+  justify-content: center;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-4-item-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 202px;
+}
+
+.ninefitu95desk-responsive-2 .athletic-clothing-1 {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-2 .ellipse-26-1 {
+  background-color: var(--white);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.ninefitu95desk-responsive-2 .tshirt-1-1 {
+  height: 64px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 64px;
+}
+
+.ninefitu95desk-responsive-2 .outdoor-sports-recreation-1 {
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+
+.ninefitu95desk-responsive-2 .ellipse-2-1 {
+  background-color: var(--white);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.ninefitu95desk-responsive-2 .baseball-ball-outline-1-1 {
+  height: 64px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 64px;
+}
+
+.ninefitu95desk-responsive-2 .fitness-tech-wearables-1 {
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 176px;
+}
+
+.ninefitu95desk-responsive-2 .smart-watch-1-1 {
+  height: 69px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 69px;
+}
+
+.ninefitu95desk-responsive-2 .home-gym-equipment-1 {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-2 .bell-1-1 {
+  height: 70px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 70px;
+}
+
+.ninefitu95desk-responsive-2 .green-band-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-46-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .choose-nine-fit-for-a-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-2 .contact-us1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--secondary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .email-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-50-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.ninefitu95desk-responsive-2 .contact-us-get-in-touch-1 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-2 .span-3 {
+  letter-spacing: 0.46px;
+}
+
+.ninefitu95desk-responsive-2 .email-button-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--text-grey);
+  border-radius: 34px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 15px 33px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .mask-group-1 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.ninefitu95desk-responsive-2 .infoninefitcom-1 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.ninefitu95desk-responsive-2 .addresses-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-29-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 30px;
+  justify-content: center;
+  padding: 53px 40px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-4-2 {
+  flex-direction: column;
+  gap: 4px;
+  width: 241px;
+}
+
+.ninefitu95desk-responsive-2 .address-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .hygeia-building-rea-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .name-1 {
+  align-self: stretch;
+  color: var(--hover);
+  font-weight: 600;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .f-135136-kailas-va-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .x2301-bayfield-build-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-2 .frame-32-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .layer_1-1 {
+  height: 43px;
+  position: relative;
+  width: 174px;
+}
+
+.ninefitu95desk-responsive-2 .x2024-nine-fit-all-rights-reserved-1 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-2 .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+/* screen - ninefitu95desk-responsive-3 */
+
+.ninefitu95desk-responsive-3 {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 938px;
+}
+
+.ninefitu95desk-responsive-3 .header2 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 124px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-26-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .frame-48-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.ninefitu95desk-responsive-3 .logo-1-2 {
+  height: 53px;
+  margin-right: -109.00px;
+  object-fit: cover;
+  position: relative;
+  width: 209px;
+}
+
+.ninefitu95desk-responsive-3 .menu-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .link-2 {
+  color: var(--secondary);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ninefitu95desk-responsive-3 .banner-section-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%);
+  background-image: url(../img/banner-section-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 205px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-25-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .get-fit-your-way-2 {
+  align-self: stretch;
+  letter-spacing: 1.28px;
+  line-height: 70px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .everything-you-need-to-get-moving-2 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .about2 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-45-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px 74px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .about-us-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .about-nine-fit-2 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-3 .span-4 {
+  letter-spacing: 0.50px;
+}
+
+.ninefitu95desk-responsive-3 .fitness-isnt-one-si-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.ninefitu95desk-responsive-3 .categories-of-product2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-47-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-28-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .fitness-essentials-for-everyday-2 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-3 .explore-curated-fitn-2 {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-3 .frame-4-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 90px;
+  justify-content: center;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-4-item-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 202px;
+}
+
+.ninefitu95desk-responsive-3 .athletic-clothing-2 {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-3 .ellipse-26-2 {
+  background-color: var(--white);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.ninefitu95desk-responsive-3 .tshirt-1-2 {
+  height: 64px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 64px;
+}
+
+.ninefitu95desk-responsive-3 .outdoor-sports-recreation-2 {
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 202px;
+}
+
+.ninefitu95desk-responsive-3 .ellipse-2-2 {
+  background-color: var(--white);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.ninefitu95desk-responsive-3 .baseball-ball-outline-1-2 {
+  height: 64px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 64px;
+}
+
+.ninefitu95desk-responsive-3 .fitness-tech-wearables-2 {
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 176px;
+}
+
+.ninefitu95desk-responsive-3 .smart-watch-1-2 {
+  height: 69px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 69px;
+}
+
+.ninefitu95desk-responsive-3 .home-gym-equipment-2 {
+  align-self: stretch;
+  color: var(--secondary);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-3 .bell-1-2 {
+  height: 70px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 70px;
+}
+
+.ninefitu95desk-responsive-3 .green-band-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-46-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .choose-nine-fit-for-a-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-3 .contact-us2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--secondary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .email-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-50-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.ninefitu95desk-responsive-3 .contact-us-get-in-touch-2 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive-3 .span-5 {
+  letter-spacing: 0.46px;
+}
+
+.ninefitu95desk-responsive-3 .email-button-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--text-grey);
+  border-radius: 34px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 15px 33px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .mask-group-2 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.ninefitu95desk-responsive-3 .infoninefitcom-2 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.ninefitu95desk-responsive-3 .addresses-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-29-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 30px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-4-4 {
+  flex-direction: column;
+  gap: 4px;
+  width: 241px;
+}
+
+.ninefitu95desk-responsive-3 .address-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .hygeia-building-rea-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .name-2 {
+  align-self: stretch;
+  color: var(--hover);
+  font-weight: 600;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .f-135136-kailas-va-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .x2301-bayfield-build-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .footer-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.ninefitu95desk-responsive-3 .frame-32-2 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .layer_1-2 {
+  height: 43px;
+  position: relative;
+  width: 174px;
+}
+
+.ninefitu95desk-responsive-3 .x2024-nine-fit-all-rights-reserved-2 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.ninefitu95desk-responsive {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.ninefitu95desk-responsive-3 .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+@media screen and (max-width: 937px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.ninefitu95desk-responsive-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 938px) and (max-width: 1225px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.ninefitu95desk-responsive-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1226px) {
+  .screen.ninefitu95desk-responsive-2 { 
+    display: none;
+   }
+  .screen.ninefitu95desk-responsive-3 { 
+    display: none;
+   }
+}
